@@ -34,7 +34,7 @@ The libraries used for the project are as follows:
 ## FOLLOWING THE PROJECT
 
 1. Read the Project Brief (01 Project Brief)
-2. Modify the scripts to reflect the location of the dowloaded data files on your device (02 Scripts)
+2. Look at the ERD (02 ERD)
 3. Execute scripts in the order provided (02 Scripts)
 4. Check out the charts (03 Viz)
 5. Read the Final Report (04 Final Report)
@@ -43,11 +43,6 @@ The libraries used for the project are as follows:
 
 - [Rockbuster Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 - 
-- The [Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017), accessed in December 2022
-- [Orders and Products.zip](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
-- [Departments.zip](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip)
-- [Customers.zip](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
-- [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
 
 ## IMPORTANT
