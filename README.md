@@ -22,21 +22,14 @@ For the full original data, please, check the RESOURCES below.
 
 ## TOOLS
 
-The libraries used for the project are as follows:
 
-- pandas - for data analysis
-- numpy - for data analysis
-- seaborn - for visualizations
-- matplotlib - for visualizations
-- scipy - for visualizations
 
 
 ## FOLLOWING THE PROJECT
 
 1. Read the Project Brief (01 Project Brief)
 2. Look at the ERD (02 ERD)
-3. Execute scripts in the order provided (02 Scripts)
-4. Check out the charts (03 Viz)
+3. 
 5. Read the Final Report (04 Final Report)
 
 ## DATA SOURCES
