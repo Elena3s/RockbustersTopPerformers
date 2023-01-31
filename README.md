@@ -42,7 +42,7 @@ The libraries used for the project are as follows:
 ## DATA SOURCES
 
 - [Rockbuster Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
-- 
+- [Rockbuster.zip](https://drive.google.com/file/d/1hVzBWz5ORRbI37HA8p5tAiuZyMOe66yI/view)
 
 
 ## IMPORTANT
