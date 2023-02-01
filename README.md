@@ -10,8 +10,7 @@ The objective is to help with the launch strategy for the new online video servi
 
 ## TOOLS
 
-SQL
-Postgres
+PostgreSQL
 PowerPoint
 
 
