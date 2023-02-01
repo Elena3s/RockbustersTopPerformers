@@ -8,18 +8,6 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 The objective is to help with the launch strategy for the new online video service through data analysis.
 
 
-## DATA
-
-The datasets are available on the following:
-
-- orders
-- products
-- departments
-- customers
-
-For the full original data, please, check the RESOURCES below.
-
-
 ## TOOLS
 
 SQL
@@ -32,7 +20,7 @@ PowerPoint
 1. Read the Project Brief (01 Project Brief)
 2. Look at the ERD (02 ERD)
 3. Study the queries (03 Queries)
-4. Look at the [Tableau Report](https://public.tableau.com/app/profile/elena.dries/viz/3_10byElenaDries/Story1?publish=yes)
+4. Look at the [Tableau Report](https://public.tableau.com/app/profile/elena.dries/viz/3_10byElenaDries/Story1?publish=yes) (optional)
 5. Read the Final Report Presentation (04 Final Report)
 
 ## DATA SOURCES
