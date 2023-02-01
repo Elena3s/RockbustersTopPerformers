@@ -11,6 +11,7 @@ The objective is to help with a launch strategy for the new online video service
 ## TOOLS
 
 - PostgreSQL
+- Tableau
 - PowerPoint
 
 
