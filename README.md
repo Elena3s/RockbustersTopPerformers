@@ -1,5 +1,5 @@
 # RockbustersTopPerformers
-Rockbuster's Top Performers project, SQL
+Rockbuster's Top Performers project, with SQL
 
 
 ## OBJECTIVE
