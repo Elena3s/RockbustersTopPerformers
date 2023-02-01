@@ -22,9 +22,3 @@ The objective is to help with a launch strategy for the new online video service
 3. Investigate the queries (03 ...)
 4. Play with the [Tableau Report](https://public.tableau.com/app/profile/elena.dries/viz/3_10byElenaDries/Story1?publish=yes)
 5. Enjoy the Final Report Presentation (04 Rockbusters Final Report Presentation)
-
-## DATA SOURCES
-
-- [Rockbuster Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
-- [Rockbuster.zip](https://drive.google.com/file/d/1hVzBWz5ORRbI37HA8p5tAiuZyMOe66yI/view)
-
