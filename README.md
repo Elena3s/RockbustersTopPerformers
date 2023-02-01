@@ -17,10 +17,10 @@ The objective is to help with the launch strategy for the new online video servi
 ## FOLLOWING THE PROJECT
 
 1. Read the Project Brief (01 Rockbusters Top Performers Project Brief)
-2. Look at the ERD (02 ERD)
-3. Study the queries (03 Queries)
+2. Study the ERD (02 ERD)
+3. Investigate the queries (03 ...)
 4. Play with the [Tableau Report](https://public.tableau.com/app/profile/elena.dries/viz/3_10byElenaDries/Story1?publish=yes)
-5. Read the Final Report Presentation (04 Final Report)
+5. Enjoy the Final Report Presentation (04 Final Report)
 
 ## DATA SOURCES
 
