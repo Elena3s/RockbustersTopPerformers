@@ -1,12 +1,12 @@
 # RockbustersTopPerformers
-SQL queries for Rockbuster's Top Performers project
+Rockbuster's Top Performers project, SQL
 
 
 ## OBJECTIVE
 
-
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from other streaming services, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 The objective is to help with the launch strategy for the new online video service through data analysis.
+
 
 ## DATA
 
@@ -21,6 +21,10 @@ For the full original data, please, check the RESOURCES below.
 
 
 ## TOOLS
+
+SQL
+Postgres
+PowerPoint
 
 
 
