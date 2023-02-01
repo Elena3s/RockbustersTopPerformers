@@ -29,7 +29,7 @@ For the full original data, please, check the RESOURCES below.
 
 1. Read the Project Brief (01 Project Brief)
 2. Look at the ERD (02 ERD)
-3. 
+3. Laao at the [Tableau Report](https://public.tableau.com/app/profile/elena.dries/ viz/3_10byElenaDries/Story1?publish=yes)
 5. Read the Final Report (04 Final Report)
 
 ## DATA SOURCES
